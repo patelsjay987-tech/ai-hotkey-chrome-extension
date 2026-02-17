@@ -20,7 +20,8 @@ Select text and instantly get summaries, deep searches, pros/cons, bullet points
    - Enable **Developer Mode**
    - Click **Load unpacked** → select this folder
 3. On first use, enter your own **Groq API key**
-4. Select text and use hotkeys to interact with the AI
+4. Press alt+z to activate and see all the AI functions 
+5. Select text and use hotkeys to interact with the AI
 
 ---
 
